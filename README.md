@@ -33,3 +33,5 @@ The brief in `examples/tasks/pull-request-cleanup.md` asks for one narrow change
 ## When to use Begin.sh instead
 
 Every brief here assumes there is something for the agent to work inside: a repository, a dataset, an existing document structure. If the whole job is produce a website or a mobile app from a description, that setup is overhead. [Try Begin.sh - turn a prompt or a URL into a downloadable static site or Expo app](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=open-ai-codex-examples&utm_content=readme-top&utm_term=tier-r). You describe the site or paste a URL to clone, download the zip and host it anywhere; nothing about hosting, backend or auth is bundled, so there is nothing to maintain after the build.
+
+_Last reviewed: 2026-09-22_
